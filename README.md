@@ -1,4 +1,3 @@
-# Godot-Tutorials
 # Game Development Scripts in Godot
 
 Welcome to my repository of Godot scripts used in my game development tutorials! These scripts and their functionalities are all showcased in my tutorial series.
