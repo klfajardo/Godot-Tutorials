@@ -10,7 +10,7 @@ Welcome to my repository of Godot scripts used in my game development tutorials!
 Alternatively, you can directly download the specific scripts you want.
 
 ## Follow My Tutorials
-For detailed explanations and more tutorials, follow me on [www.tiktok.com/@kfaj_]
+For explanations and more tutorials, follow me on [https://www.youtube.com/@KevinFajardo-Learning]
 
 ---
 
@@ -26,6 +26,6 @@ Bienvenido a mi repositorio de scripts para Godot, utilizados en mis tutoriales 
 Alternativamente, puedes descargar directamente los scripts que necesitas.
 
 ## Sigue Mis Tutoriales
-Para explicaciones detalladas y más tutoriales, sígueme en [www.tiktok.com/@kfaj_]
+Para explicaciones detalladas y más tutoriales, sígueme en [https://www.youtube.com/@KevinFajardo-Learning]
 
 Gracias! <3
